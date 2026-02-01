@@ -1,3 +1,3 @@
 # Notebooks
 
-The main focus of my notebooks are for demonstrating the outcome of projects relating to quantitative research.
+The main focus of these notebooks are for demonstrating the outcome of projects relating to research.
